@@ -20,7 +20,7 @@ function CharGrid() {
   return (
     <div className="char-grid">
       {charAPI.map(each => (
-        <CharCard key={each} char={each} />
+        <CharCard key={each.url} char={each} />
       ))}
     </div>
   );

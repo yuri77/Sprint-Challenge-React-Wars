@@ -28,9 +28,14 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 REACT made managing state more easily and can change the dom's structure depending on the state
 
+to make website more dynamic 
+
 - [ ] What does it mean to _think_ in react?
 
 component first
+
+we can path along props through component
+State can trigger site change
 
 - [ ] Describe state.
 
